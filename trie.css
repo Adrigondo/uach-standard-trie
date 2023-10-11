@@ -13,7 +13,7 @@ body {
 }
 
 .trie-container {
-    max-width: 500px;
+    max-width: 600px;
     margin: 0 auto;
     padding: 20px;
     border: 1px solid #ccc;
@@ -55,4 +55,9 @@ button:hover {
     gap: 0.5rem;
     justify-content: center;
     align-items: center;
+}
+
+footer {
+    padding: 2rem;
+    font-size: small;
 }
